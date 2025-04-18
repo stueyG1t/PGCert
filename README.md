@@ -948,10 +948,8 @@ Rough steps to migrate a stock So Simple v2 fork (with no alterations) to the la
 
    ```yaml
    google_fonts:
-     - name: "Source Sans Pro"
-       weights: "400,400i,700,700i"
-     - name: "Lora"
-       weights: "400,400i,700,700i"
+      - name: "Inter"
+    weights: "400,500,700"
    ```
 
 4. Edit `_config.yml` paying close attention to those keys that [have been renamed](#configuration-changes) or have new relative path requirements. `locale`, `logo`, and `owner` are good places to start.
