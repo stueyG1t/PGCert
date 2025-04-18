@@ -261,7 +261,7 @@ Three skins (default, light, and dark) are available to change the color palette
 | ![default skin](https://mmistakes.github.io/so-simple-theme/images/default-skin.png) | ![light skin](https://mmistakes.github.io/so-simple-theme/images/light-skin.png) | ![dark skin](https://mmistakes.github.io/so-simple-theme/images/dark-skin.png) |
 
 ```yaml
-skin: "/assets/css/skins/default.css"
+# skin: "/assets/css/skins/default.css"
 skin: "/assets/css/skins/light.css"
 skin: "/assets/css/skins/dark.css"
 ```
