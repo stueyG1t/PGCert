@@ -352,10 +352,8 @@ Easily use [**Google Fonts**](https://fonts.google.com/) throughout your site by
 
 ```yaml
 google_fonts:
-  - name: "Source Sans Pro"
-    weights: "400,400i,700,700i"
-  - name: "Lora"
-    weights: "400,400i,700,700i"
+   - name: "Inter"
+    weights: "400,500,700"
 ```
 
 **Note:** If other font families are used, be sure to add, then override the following SCSS variables in `/assets/css/main.scss` with the `font-family` values Google provides.
