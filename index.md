@@ -2,13 +2,22 @@
 layout: home
 title: Stuart's PGCert Portfolio
 ---
-# Introduction
+<nav>
+- [Introduction](#introduction)
+- [Reflective Area 1 – Operational Issues](#Reflective Area 1 – Operational Issues)
+- [Reflective Area 2 – Learning, Teaching and Assessment](#Reflective Area 2 – Learning, Teaching and Assessment)
+- [Reflective Area 3 – Wider Context](#Reflective Area 3 – Wider Context)
+- [Reflective Area 4 – Specialist Interest](#Reflective Area 4 – Specialist Interest)
+- [Professional Development Planning](#Professional Development Planning)
+- [Conclusion](#Conclusion)
+</nav>
+## Introduction
 
 My name is Stuart Smith, and I work as the Digital Skills Developer at the University of Greenwich—a unique role that focuses on how students engage with digital technologies both during their studies and in preparation for their future careers. This role builds on earlier work I’ve done in learning technology in both commercial and university settings.
 
 Technology isn’t something I add into my work—it’s woven into it. From the Microsoft 365 suite to tools like Visual Studio Code, Adobe Creative Cloud, and even my experiments with JavaScript and Python, I aim to model the kind of thoughtful digital practices I want students to develop. With the rise of generative AI, tools like Copilot have become central to my work. I see them as transformative—not just in terms of automation, but in terms of how we think, create, and support learners. I believe strongly in using the same tools I introduce to students, and I see my role as a guide helping them navigate this fast-evolving landscape.
 
-# Reflective Area 1 – Operational Issues
+## Reflective Area 1 – Operational Issues
 
 A core part of my practice involves integrating tools like Copilot, Microsoft Teams, and Visual Studio Code into everyday learning support. I use Copilot regularly, especially in workshop scenarios. For example, when I was running an Excel tutorial and discovered that key learning materials had been deprecated, I used Copilot in real-time to generate a new learning activity based on prompts that students helped craft. This turned what could’ve been a failure into a moment of digital empowerment. Students saw that a lack of knowledge wasn't a dead end—it was a prompt for collaboration, experimentation, and co-creation.
 
@@ -16,7 +25,7 @@ Copilot excels in many areas—particularly as a personal tutor or coach. Its ab
 
 Similarly, I use Visual Studio Code for more technical work—particularly for its support of Markdown and Jupyter notebooks. Markdown is one of the oldest and most robust text formats available and has particular value in education because of its accessibility, structure, and long-term archival viability. Unfortunately, Microsoft’s broader ecosystem isn’t Markdown-friendly. Word and Teams, for instance, don't offer clean Markdown workflows, which can present real limitations when working with screen readers or preparing structured content for future reuse.
 
-# Reflective Area 2 – Learning, Teaching and Assessment
+## Reflective Area 2 – Learning, Teaching and Assessment
 
 All of my teaching takes place online, primarily through Microsoft Teams. I’ve adapted my sessions to be fully interactive, even when students don’t turn on their cameras. Tools like MentiMeter and Microsoft Forms allow me to create moments of live feedback and insight. These tools help students who might otherwise be silent in a traditional classroom feel seen and heard (Brown, 2022). Menti’s anonymity, in particular, is powerful—it gives students permission to admit they don’t know something, or to experiment with an idea they aren’t confident in yet.
 
@@ -26,7 +35,7 @@ I’ve also noticed that TEL can be a double-edged sword. The lack of student ca
 
 Inclusion remains a priority. Many of our students are multilingual, and some have experienced educational trauma. When one mature student, previously bullied in her workplace over digital skills, realised she could use Copilot to reframe complex information in her own words, she cried with relief. That moment reminded me of the profound emotional and psychological role TEL can play in helping people reclaim their agency.
 
-# Reflective Area 3 – Wider Context
+## Reflective Area 3 – Wider Context
 
 Accessibility and data ethics are foundational concerns in my work. My MSc dissertation focused on interface design for learners with specific needs, and since then I’ve contributed to JISC and government advisory panels on accessibility. But accessibility is more than just screen reader compliance. It’s about recognising that students arrive with diverse needs—linguistic, cultural, neurodivergent—and that inclusive design starts with listening.
 
@@ -36,7 +45,7 @@ Ethically, we face difficult questions around AI. Should students be allowed to 
 
 On data privacy: institutional systems often don’t talk to each other. Staff end up replicating student data in insecure ways—OneDrive folders, spreadsheets, emails. Students mimic this without understanding the implications. I teach students that managing information isn’t about hoarding—it’s about stewardship. Know where your data is, why it's there, and who can see it.
 
-# Reflective Area 4 – Specialist Interest
+## Reflective Area 4 – Specialist Interest
 
 My core area of specialist interest is the intersection of generative AI, immersive environments, and personalised learning. I’m especially drawn to open-source AI models that can run locally and be combined with Retrieval-Augmented Generation (RAG) frameworks. With these tools, we can let students interrogate large sets of course data, reading lists, and materials using natural language—in their own voice and at their own pace.
 
@@ -44,7 +53,7 @@ I see huge potential for building learning companions that aren’t just reactiv
 
 I'm also concerned about the lack of open standards. While tools like Copilot are powerful, their opacity and corporate ties limit their educational potential. We need transparent, accountable AI systems if we want to support academic freedom and innovation. I believe in technology as a democratising force—but only if it remains open, ethical, and student-focused.
 
-# Professional Development Planning
+## Professional Development Planning
 
 My next formal step is applying for CMALT, which I see as a way to consolidate and articulate the TEL journey I’m already on. I’m fortunate to work alongside several Certified Members of ALT, and I look forward to joining that professional community.
 
@@ -52,7 +61,7 @@ Longer term, I’d like to explore collaborative research around generative AI i
 
 Eventually, I’d like to contribute more actively to the field through publications and collaborative tool-building. I’m even considering a PhD, though I’m more focused in the short term on meaningful, hands-on development that empowers students and reimagines what assessment and learning could be.
 
-# Conclusion
+## Conclusion
 
 Before beginning this PGCert, I didn’t value reflection as much as I do now. Having a scaffolded portfolio has helped me see its importance—not just for academic growth, but for refining my own thinking. I plan to continue this habit well beyond the PGCert, using tools like Jekyll and Markdown to build a sustainable, portable professional portfolio.
 
@@ -60,7 +69,7 @@ This process has reinforced many of my core beliefs: that digital tools can demo
 
 I’ve come away from this with a stronger sense of direction and a renewed belief that, while technology often introduces new challenges, it also opens doors for creativity, access, and transformation—especially when guided by thoughtful educators.
 
-# Bibliography
+## Bibliography
 
 - Brown, T. (2022). *Inclusive Online Engagement: Practices for the Digital Classroom*. EdTech Press.
 - Jones, M. (2018). *Rethinking Student Reflection: Platforms for Ownership and Engagement*. Journal of TEL, 14(2), pp. 1–15.
