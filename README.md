@@ -366,8 +366,8 @@ $monospace-font-family: Menlo, Consolas, Monaco, "Courier New", Courier,
 
 $base-font-family: $sans-serif-font-family;
 $headline-font-family: $sans-serif-font-family;
-$title-font-family: $serif-font-family;
-$description-font-family: $serif-font-family;
+$title-font-family: $sans-serif-font-family;
+$description-font-family: $sans-serif-font-family;
 $meta-font-family: $serif-font-family;
 ```
 
