@@ -16,6 +16,7 @@ title: Stuart's PGCert Portfolio
 My name is Stuart Smith, and I work as the Digital Skills Developer at the University of Greenwich—a unique role that focuses on how students engage with digital technologies both during their studies and in preparation for their future careers. This role builds on earlier work I’ve done in learning technology in both commercial and university settings.
 
 Technology isn’t something I add into my work—it’s woven into it. From the Microsoft 365 suite to tools like Visual Studio Code, Adobe Creative Cloud, and even my experiments with JavaScript and Python, I aim to model the kind of thoughtful digital practices I want students to develop. With the rise of generative AI, tools like Copilot have become central to my work. I see them as transformative—not just in terms of automation, but in terms of how we think, create, and support learners. I believe strongly in using the same tools I introduce to students, and I see my role as a guide helping them navigate this fast-evolving landscape.
+[↑ Back to top](#introduction)
 
 ## Reflective Area 1 – Operational Issues
 
@@ -24,6 +25,7 @@ A core part of my practice involves integrating tools like Copilot, Microsoft Te
 Copilot excels in many areas—particularly as a personal tutor or coach. Its ability to understand natural language, propose ideas, and reframe problems makes it particularly useful for students with lower confidence or those from non-traditional learning backgrounds. But it’s not without constraints. Enterprise-level censorship, hallucinations, and limited philosophical depth can frustrate more advanced users (OpenAI, 2024). In terms of ethical use, Copilot’s cheerful tone sometimes masks a lack of clarity about its boundaries, and it can become evasive when questioned about deeper topics.
 
 Similarly, I use Visual Studio Code for more technical work—particularly for its support of Markdown and Jupyter notebooks. Markdown is one of the oldest and most robust text formats available and has particular value in education because of its accessibility, structure, and long-term archival viability. Unfortunately, Microsoft’s broader ecosystem isn’t Markdown-friendly. Word and Teams, for instance, don't offer clean Markdown workflows, which can present real limitations when working with screen readers or preparing structured content for future reuse.
+[↑ Back to top](#introduction)
 
 ## Reflective Area 2 – Learning, Teaching and Assessment
 
@@ -34,6 +36,7 @@ Copilot has become foundational to my teaching strategy. In an Excel session, fo
 I’ve also noticed that TEL can be a double-edged sword. The lack of student cameras can make teaching online feel isolating, and bandwidth limitations or noisy environments mean many students attend from less-than-ideal locations. However, by incorporating chat-based interaction, flexible feedback loops, and design that anticipates these limitations, we still create valuable experiences.
 
 Inclusion remains a priority. Many of our students are multilingual, and some have experienced educational trauma. When one mature student, previously bullied in her workplace over digital skills, realised she could use Copilot to reframe complex information in her own words, she cried with relief. That moment reminded me of the profound emotional and psychological role TEL can play in helping people reclaim their agency.
+[↑ Back to top](#introduction)
 
 ## Reflective Area 3 – Wider Context
 
@@ -52,6 +55,7 @@ My core area of specialist interest is the intersection of generative AI, immers
 I see huge potential for building learning companions that aren’t just reactive but contextual. Imagine a student in an immersive VR space, moving through course content visually, spatially, and interactively—asking questions, testing ideas, and receiving tailored responses from a localised, privacy-respecting AI tutor. It’s an ambitious vision, but one that feels like the natural evolution of TEL.
 
 I'm also concerned about the lack of open standards. While tools like Copilot are powerful, their opacity and corporate ties limit their educational potential. We need transparent, accountable AI systems if we want to support academic freedom and innovation. I believe in technology as a democratising force—but only if it remains open, ethical, and student-focused.
+[↑ Back to top](#introduction)
 
 ## Professional Development Planning
 
@@ -68,6 +72,7 @@ Before beginning this PGCert, I didn’t value reflection as much as I do now. H
 This process has reinforced many of my core beliefs: that digital tools can democratise learning, that students need agency, and that institutions must do better in protecting and empowering learners. It’s also deepened my interest in systemic innovation—from immersive learning to ethical AI, from accessibility to data minimalism.
 
 I’ve come away from this with a stronger sense of direction and a renewed belief that, while technology often introduces new challenges, it also opens doors for creativity, access, and transformation—especially when guided by thoughtful educators.
+[↑ Back to top](#introduction)
 
 ## Bibliography
 
@@ -78,3 +83,4 @@ I’ve come away from this with a stronger sense of direction and a renewed beli
 - Okpara, C. (2021). *Designing for Accessibility in Digital Learning Environments*. Open Access TEL Review, 9(4), pp. 33–47.
 - OpenAI. (2024). *Understanding Large Language Models: Transparency and Trust*. Retrieved from https://www.openai.com
 - Smith, J. (2019). *Digital Natives and Assessment Design*. Higher Education Futures, 12(3), pp. 44–60.
+[↑ Back to top](#introduction)
