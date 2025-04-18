@@ -2,15 +2,15 @@
 layout: home
 title: Stuart's PGCert Portfolio
 ---
-<nav>
 - [Introduction](#introduction)
-- [Reflective Area 1 – Operational Issues](#Reflective Area 1 – Operational Issues)
-- [Reflective Area 2 – Learning, Teaching and Assessment](#Reflective Area 2 – Learning, Teaching and Assessment)
-- [Reflective Area 3 – Wider Context](#Reflective Area 3 – Wider Context)
-- [Reflective Area 4 – Specialist Interest](#Reflective Area 4 – Specialist Interest)
-- [Professional Development Planning](#Professional Development Planning)
-- [Conclusion](#Conclusion)
-</nav>
+- [Reflective Area 1 – Operational Issues](#reflective-area-1--operational-issues)
+- [Reflective Area 2 – Learning, Teaching and Assessment](#reflective-area-2--learning-teaching-and-assessment)
+- [Reflective Area 3 – Wider Context](#reflective-area-3--wider-context)
+- [Reflective Area 4 – Specialist Interest](#reflective-area-4--specialist-interest)
+- [Professional Development Planning](#professional-development-planning)
+- [Conclusion](#conclusion)
+- [Bibliography](#bibliography)
+
 ## Introduction
 
 My name is Stuart Smith, and I work as the Digital Skills Developer at the University of Greenwich—a unique role that focuses on how students engage with digital technologies both during their studies and in preparation for their future careers. This role builds on earlier work I’ve done in learning technology in both commercial and university settings.
