@@ -71,6 +71,13 @@ Longer term, I’d like to explore collaborative research around generative AI i
 
 Eventually, I’d like to contribute more actively to the field through publications and collaborative tool-building. I’m even considering a PhD, though I’m more focused in the short term on meaningful, hands-on development that empowers students and reimagines what assessment and learning could be.
 
+> “There will be one company that creates a personal agent that will understand all your activities... That’s a big thing because you’ll never go to a search site again. You’ll never go to a productivity tool again. You’ll never go to Amazon again. Everything will be mediated through your agent... Whoever wins that will take the current dispersed, high profit areas, and move them into a single area.”  
+> — Gates, B. (2023)
+
+**Reference (Harvard style):**  
+Gates, B. (2023) *Bill Gates on the AI revolution*. Goldman Sachs. Available at: [https://www.goldmansachs.com/insights/articles/bill-gates-on-the-ai-revolution](https://www.goldmansachs.com/insights/articles/bill-gates-on-the-ai-revolution) (Accessed: 6 May 2025).
+
+
 
 [↑ Back to top](#introduction)
 
