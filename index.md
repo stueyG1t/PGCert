@@ -13,7 +13,7 @@ title: Stuart's PGCert Portfolio
 
 ## Introduction
 <img
-  class="img-fluid"
+  class="align-left"
   src="{{ "/assets/media/Stuart_Smith_Digital_Skills_Developer.jpg" | prepend: site.baseurl }}" 
   alt="Stuart Smith Digital Skills Developer" 
   width="300" 
