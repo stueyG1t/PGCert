@@ -12,8 +12,12 @@ title: Stuart's PGCert Portfolio
 * [Bibliography](#bibliography)
 
 ## Introduction
-
-![Stuart Smith Digital Skills Developer]({{ "/assets/media/Stuart_Smith_Digital_Skills_Developer.jpg" | prepend: site.baseurl }})
+<img 
+  src="{{ "/assets/media/Stuart_Smith_Digital_Skills_Developer.jpg" | prepend: site.baseurl }}" 
+  alt="Stuart Smith Digital Skills Developer" 
+  width="300" 
+  loading="lazy" 
+/>
 My name is Stuart Smith, and I work as the Digital Skills Developer at the University of Greenwich—a unique role that focuses on how students engage with digital technologies both during their studies and in preparation for their future careers. This role builds on earlier work I’ve done in learning technology in both commercial and university settings.
 
 Technology isn’t something I add into my work—it’s woven into it. My pedagogical stance is rooted in constructivist and humanist traditions (*Vygotsky, 1978; Freire, 1970; Rogers, 1969*), which emphasise learner agency, reflection, and the social context of knowledge-building. From the Microsoft 365 suite to tools like Visual Studio Code, Adobe Creative Cloud, and even my experiments with JavaScript and Python, I aim to model the kind of thoughtful digital practices I want students to develop. With the rise of generative AI, tools like Copilot have become central to my work. I see them as transformative—not just in terms of automation, but in terms of how we think, create, and support learners. I believe strongly in using the same tools I introduce to students, and I see my role as a guide helping them navigate this fast-evolving landscape.
