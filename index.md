@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Stuart's PGCert Portfolio
-----
+---
 * [Introduction](#introduction)
 * [Reflective Area 1 – Operational Issues](#reflective-area-1--operational-issues)
 * [Reflective Area 2 – Learning, Teaching and Assessment](#reflective-area-2--learning-teaching-and-assessment)
