@@ -4,3 +4,32 @@
     font-weight: 600;
     letter-spacing: -1px;
 }
+/*--------------------------------------------------------------
+1. Float‐left container for desktop
+--------------------------------------------------------------*/
+.float‐left {
+  float: left;
+  margin: 0 1em 1em 0;    /* gap to the right and bottom */
+  width: 40%;             /* or whatever fits your design */
+  max-width: 300px;       /* optional cap */
+}
+
+/* Ensure parent contains the float */
+.clearfix::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/*--------------------------------------------------------------
+2. Mobile breakpoint: stack image and text
+--------------------------------------------------------------*/
+@media screen and (max-width: 768px) {
+  .float‐left {
+    float: none;
+    display: block;
+    margin: 0 auto 1em;   /* centre-block with bottom spacing */
+    width: 100%;
+    max-width: none;
+  }
+}
