@@ -102,28 +102,18 @@ I’ve come away from this with a stronger sense of direction and a renewed beli
 
 ## Bibliography
 
-Oelen, A. and Auer, S. (2019) ‘Content Authoring with Markdown for Visually Impaired and Blind Users’, *Proceedings of the 16th International Web for All Conference*, ACM. Available at: [https://doi.org/10.1145/3315002.3317576](https://doi.org/10.1145/3315002.3317576) (Accessed: 7 May 2025).
-
-Smith, S. (2002) ‘Dyslexia and virtual learning environment interfaces’, *Access all areas: disability, technology and learning*, pp. 50–53.
-
-Zhao, W., Li, R., Hou, Y., Sun, Q., Zhang, H. and Ren, X. (2025) ‘Let AI Read First: Enhancing Reading Abilities for Individuals with Dyslexia through Artificial Intelligence’, *arXiv preprint*. Available at: [https://arxiv.org/abs/2504.00941](https://arxiv.org/abs/2504.00941) (Accessed: 7 May 2025).
-
-Field, H. (2024) ‘Microsoft is blocking terms that cause its AI to create violent images’, *CNBC*, 8 March. Available at: [https://www.cnbc.com/2024/03/08/microsoft-blocking-terms-that-cause-its-ai-to-create-violent-images.html](https://www.cnbc.com/2024/03/08/microsoft-blocking-terms-that-cause-its-ai-to-create-violent-images.html) (Accessed: 7 May 2025).
-
-Smith, S.M. (2001) *Can a Virtual Learning Environment Interface Meet the Needs of Dyslexics and Non-Dyslexics?* MSc Computing Science Dissertation. Staffordshire University.
-
-Freire, P. (1970) *Pedagogy of the Oppressed*. New York: Herder and Herder.
-
-Gates, B. (2023) *Bill Gates on the AI revolution*. Goldman Sachs. Available at: [https://www.goldmansachs.com/insights/articles/bill-gates-on-the-ai-revolution](https://www.goldmansachs.com/insights/articles/bill-gates-on-the-ai-revolution) (Accessed: 6 May 2025).
-
-Jisc (2019) *Building Digital Capability: The six elements defined*. Available at: [https://www.jisc.ac.uk/rd/projects/building-digital-capability](https://www.jisc.ac.uk/rd/projects/building-digital-capability) (Accessed: 7 May 2025).
-
-Knox, J. (2020) ‘Artificial intelligence and education in China’, *Learning, Media and Technology*, 45(3), pp. 295–308. doi:10.1080/17439884.2020.1740652.
-
-Luckin, R. (2018) *Machine Learning and Human Intelligence: The Future of Education for the 21st Century*. London: UCL IOE Press.
-
-Rogers, C.R. (1969) *Freedom to Learn*. Columbus, OH: Merrill.
-
-Selwyn, N. (2019) *Should Robots Replace Teachers? AI and the Future of Education*. Cambridge: Polity Press.
-
-Vygotsky, L.S. (1978) *Mind in Society: The Development of Higher Psychological Processes*. Cambridge, MA: Harvard University Press.
+- Oelen, A. and Auer, S. (2019) ‘Content Authoring with Markdown for Visually Impaired and Blind Users’, *Proceedings of the 16th International Web for All Conference*, ACM. Available at: [https://doi.org/10.1145/3315002.3317576](https://doi.org/10.1145/3315002.3317576) (Accessed: 7 May 2025).
+- Smith, S. (2002) ‘Dyslexia and virtual learning environment interfaces’, *Access all areas: disability, technology and learning*, pp. 50–53.
+- Zhao, W., Li, R., Hou, Y., Sun, Q., Zhang, H. and Ren, X. (2025) ‘Let AI Read First: Enhancing Reading Abilities for Individuals with Dyslexia through Artificial Intelligence’, *arXiv preprint*. Available at: [https://arxiv.org/abs/2504.00941](https://arxiv.org/abs/2504.00941) (Accessed: 7 May 2025).
+- Field, H. (2024) ‘Microsoft is blocking terms that cause its AI to create violent images’, *CNBC*, 8 March. Available at: [https://www.cnbc.com/2024/03/08/microsoft-blocking-terms-that-cause-its-ai-to-create-violent-images.html](https://www.cnbc.com/2024/03/08/microsoft-blocking-terms-that-cause-its-ai-to-create-violent-images.html) (Accessed: 7 May 2025).
+- Smith, S.M. (2001) *Can a Virtual Learning Environment Interface Meet the Needs of Dyslexics and Non-Dyslexics?* MSc Computing Science Dissertation. Staffordshire University.
+- Freire, P. (1970) *Pedagogy of the Oppressed*. New York: Herder and Herder.
+- Gates, B. (2023) *Bill Gates on the AI revolution*. Goldman Sachs. Available at: [https://www.goldmansachs.com/insights/articles/bill-gates-on-the-ai-revolution](https://www.goldmansachs.com/insights/articles/bill-gates-on-the-ai-revolution) (Accessed: 6 May 2025).
+- Jisc (2019) *Building Digital Capability: The six elements defined*. Available at: [https://www.jisc.ac.uk/rd/projects/building-digital-capability](https://www.jisc.ac.uk/rd/projects/building-digital-capability) (Accessed: 7 May 2025).
+- Knox, J. (2020) ‘Artificial intelligence and education in China’, *Learning, Media and Technology*, 45(3), pp. 295–308. doi:10.1080/17439884.2020.1740652.
+- Luckin, R. (2018) *Machine Learning and Human Intelligence: The Future of Education for the 21st Century*. London: UCL IOE Press.
+- Rogers, C.R. (1969) *Freedom to Learn*. Columbus, OH: Merrill.
+- Selwyn, N. (2019) *Should Robots Replace Teachers? AI and the Future of Education*. Cambridge: Polity Press.
+- Vygotsky, L.S. (1978) *Mind in Society: The Development of Higher Psychological Processes*. Cambridge, MA: Harvard University Press.
+- 
+## AI Usage Declaration
