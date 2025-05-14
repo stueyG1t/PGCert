@@ -14,6 +14,11 @@ title: Stuart's PGCert Portfolio
 - [AI Usage Declaration](#AI-Usage-Declaration)
 - [Credits](#credits)
 
+### Note for Readers
+1. A Professional Standards Framework (PSF) 2023 mapping has been included to clearly demonstrate how each section aligns with the PSF’s areas of activity, core knowledge, and professional values.
+2. A [Glossary](#glossary-of-terms) is included with explanations and links for specialist terms.
+3. A [Credit](#credits) section is included to acknowlege image sources.
+
 ## Introduction
 
 <img
@@ -33,7 +38,7 @@ As part of the PGCert module, we were encouraged to use Microsoft Sway to presen
 <img
 class="align-right"
 src="{{ "/assets/media/PGCert-Portfolio-john-barkiple-l090uFWoPaI-unsplash.jpg" | prepend: site.baseurl }}"
-alt="Stuart Smith Digital Skills Developer"
+alt="Decortative Image"
 width="300"
 loading="lazy"
 />
@@ -53,7 +58,7 @@ Similarly, I use Visual Studio Code for more technical work particularly for its
 <img
 class="align-left"
 src="{{ "/assets/media/PGCert-Portfolio-yle-archives-_s6Xj10AC6w-unsplash.jpg" | prepend: site.baseurl }}"
-alt="Stuart Smith Digital Skills Developer"
+alt="Decortative Image"
 width="300"
 loading="lazy"
 />
@@ -71,7 +76,7 @@ Inclusion remains a priority. Many of our students are multilingual, and some ha
 <img
 class="align-right"
 src="{{ "/assets/media/PGCert-Portfolio-peter-john-maridable-tRJtLQ8p1fU-unsplash.jpg" | prepend: site.baseurl }}"
-alt="Stuart Smith Digital Skills Developer"
+alt="Decortative Image"
 width="300"
 loading="lazy"
 />
@@ -98,7 +103,7 @@ This is an undeniably exciting time for artificial intelligence in education. Th
 <img
 class="align-left"
 src="{{ "/assets/media/PGCert-Portfolio-gerard-siderius-YeoSV_3Up-k-unsplash.jpg" | prepend: site.baseurl }}"
-alt="Stuart Smith Digital Skills Developer"
+alt="Decortative Image"
 width="300"
 loading="lazy"
 />
@@ -114,7 +119,7 @@ I'm also concerned about the lack of open standards. _Knox (2020)_ highlights ho
 <img
 class="align-right"
 src="{{ "/assets/media/PGCert-Portfolio-fotis-fotopoulos-DuHKoV44prg-unsplash.jpg" | prepend: site.baseurl }}"
-alt="Stuart Smith Digital Skills Developer"
+alt="Decortative Image"
 width="300"
 loading="lazy"
 />
@@ -130,7 +135,7 @@ Eventually, I'd like to contribute more actively to the field through publicatio
 <img
 class="align-left"
 src="{{ "/assets/media/PGCert-Portfolio-seema-miah-32mF78M9GP4-unsplash.jpg" | prepend: site.baseurl }}"
-alt="Stuart Smith Digital Skills Developer"
+alt="Decortative Image"
 width="300"
 loading="lazy"
 />
@@ -143,13 +148,7 @@ I've come away from this with a stronger sense of direction and a renewed belief
 [↑ Back to top](#introduction)
 
 ## Glossary of Terms
-<img
-class="align-left"
-src="{{ "/assets/media/Stuart_Smith_Digital_Skills_Developer.jpg" | prepend: site.baseurl }}"
-alt="Stuart Smith Digital Skills Developer"
-width="300"
-loading="lazy"
-/>
+
 Markdown – A lightweight plain text formatting syntax designed for easy readability and conversion to HTML. Widely used for writing documentation and creating content for the web in an accessible, structured way. See: https://www.markdownguide.org
 Jekyll – An open-source static site generator used to create fast, simple websites from plain text files written in Markdown. Often used with GitHub Pages for publishing personal or project websites. See: https://jekyllrb.com
 Squarespace – A commercial “what-you-see-is-what-you-get” (WYSIWYG) website builder that allows users to create visually designed sites without coding. Known for its design templates and ease of use. See: https://www.squarespace.com
