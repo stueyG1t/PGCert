@@ -20,7 +20,7 @@ title: Stuart's PGCert Portfolio
 class="align-left"
 src="{{ "/assets/media/PGCert-Portfolio-stuart-smith-headshot.jpg" | prepend: site.baseurl }}"
 alt="Stuart Smith Digital Skills Developer"
-width="300"
+width="200"
 loading="lazy"
 />
 My name is Stuart Smith, and I work as the Digital Skills Developer at the University of Greenwich a unique role that focuses on how students engage with digital technologies both during their studies and in preparation for their future careers. This role builds on earlier work I've done in learning technology in both commercial and university settings.
