@@ -13,13 +13,12 @@ title: Stuart's PGCert Portfolio
 - [Bibliography](#bibliography)
 - [AI Usage Declaration](#AI-Usage-Declaration)
 - [Credits](#credits)
-- 
 
 ## Introduction
 
 <img
 class="align-left"
-src="{{ "/assets/media/Stuart_Smith_Digital_Skills_Developer.jpg" | prepend: site.baseurl }}"
+src="{{ "/assets/media/PGCert-Portfolio-stuart-smith-headshot.jpg" | prepend: site.baseurl }}"
 alt="Stuart Smith Digital Skills Developer"
 width="300"
 loading="lazy"
@@ -32,8 +31,8 @@ As part of the PGCert module, we were encouraged to use Microsoft Sway to presen
 
 ## Reflective Area 1 Operational Issues (PSF A2, A4, K4, V2)
 <img
-class="align-left"
-src="{{ "/assets/media/Stuart_Smith_Digital_Skills_Developer.jpg" | prepend: site.baseurl }}"
+class="align-right"
+src="{{ "/assets/media/PGCert-Portfolio-john-barkiple-l090uFWoPaI-unsplash.jpg" | prepend: site.baseurl }}"
 alt="Stuart Smith Digital Skills Developer"
 width="300"
 loading="lazy"
@@ -53,7 +52,7 @@ Similarly, I use Visual Studio Code for more technical work particularly for its
 ## Reflective Area 2 – Learning, Teaching and Assessment (PSF A1, A2, A3, K2, K3, V1, V2)
 <img
 class="align-left"
-src="{{ "/assets/media/Stuart_Smith_Digital_Skills_Developer.jpg" | prepend: site.baseurl }}"
+src="{{ "/assets/media/PGCert-Portfolio-yle-archives-_s6Xj10AC6w-unsplash.jpg" | prepend: site.baseurl }}"
 alt="Stuart Smith Digital Skills Developer"
 width="300"
 loading="lazy"
@@ -70,8 +69,8 @@ Inclusion remains a priority. Many of our students are multilingual, and some ha
 
 ## Reflective Area 3 – Wider Context (PSF A4, A5, K6, V4)
 <img
-class="align-left"
-src="{{ "/assets/media/Stuart_Smith_Digital_Skills_Developer.jpg" | prepend: site.baseurl }}"
+class="align-right"
+src="{{ "/assets/media/PGCert-Portfolio-peter-john-maridable-tRJtLQ8p1fU-unsplash.jpg" | prepend: site.baseurl }}"
 alt="Stuart Smith Digital Skills Developer"
 width="300"
 loading="lazy"
@@ -98,7 +97,7 @@ This is an undeniably exciting time for artificial intelligence in education. Th
 ## Reflective Area 4 – Specialist Interest (PSF A5, K1, K4, K5, V3)
 <img
 class="align-left"
-src="{{ "/assets/media/Stuart_Smith_Digital_Skills_Developer.jpg" | prepend: site.baseurl }}"
+src="{{ "/assets/media/PGCert-Portfolio-gerard-siderius-YeoSV_3Up-k-unsplash.jpg" | prepend: site.baseurl }}"
 alt="Stuart Smith Digital Skills Developer"
 width="300"
 loading="lazy"
@@ -113,8 +112,8 @@ I'm also concerned about the lack of open standards. _Knox (2020)_ highlights ho
 
 ## Professional Development Planning (PSF A5, V3)
 <img
-class="align-left"
-src="{{ "/assets/media/Stuart_Smith_Digital_Skills_Developer.jpg" | prepend: site.baseurl }}"
+class="align-right"
+src="{{ "/assets/media/PGCert-Portfolio-fotis-fotopoulos-DuHKoV44prg-unsplash.jpg" | prepend: site.baseurl }}"
 alt="Stuart Smith Digital Skills Developer"
 width="300"
 loading="lazy"
@@ -130,7 +129,7 @@ Eventually, I'd like to contribute more actively to the field through publicatio
 ## Conclusion (PSF V1, V2, V3, V4)
 <img
 class="align-left"
-src="{{ "/assets/media/Stuart_Smith_Digital_Skills_Developer.jpg" | prepend: site.baseurl }}"
+src="{{ "/assets/media/PGCert-Portfolio-seema-miah-32mF78M9GP4-unsplash.jpg" | prepend: site.baseurl }}"
 alt="Stuart Smith Digital Skills Developer"
 width="300"
 loading="lazy"
