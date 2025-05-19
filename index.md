@@ -4,12 +4,12 @@ title: Stuart's PGCert Portfolio
 ---
 
 - [Introduction](#introduction)
-- [Reflective Area 1 Operational Issues (PSF A2, A4, K4, V2)](#reflective-area-1-operational-issues-psf-a2-a4-k4-v2)
-- [Reflective Area 2 – Learning, Teaching and Assessment (PSF A1, A2, A3, K2, K3, V1, V2)](#reflective-area-2--learning-teaching-and-assessment-psf-a1-a2-a3-k2-k3-v1-v2)
-- [Reflective Area 3 – Wider Context (PSF A4, A5, K6, V4)](#reflective-area-3--wider-context-psf-a4-a5-k6-v4)
+- [Reflective Area 1 Operational Issues](#reflective-area-1-operational-issues)
+- [Reflective Area 2 – Learning, Teaching and Assessment](#reflective-area-2--learning-teaching-and-assessment)
+- [Reflective Area 3 – Wider Context](#reflective-area-3--wider-context)
 - [Reflective Area 4 – Specialist Interest (PSF A5, K1, K4, K5, V3)](#reflective-area-4--specialist-interest-psf-a5-k1-k4-k5-v3)
-- [Professional Development Planning (PSF A5, V3)](#professional-development-planning-psf-a5-v3)
-- [Conclusion (PSF V1, V2, V3, V4)](#conclusion-psf-v1-v2-v3-v4)
+- [Professional Development Planning](#professional-development-planning)
+- [Conclusion](#conclusion)
 - [Glossary of Terms](#glossary-of-terms)
 - [Bibliography](#bibliography)
 - [AI Usage Declaration](#ai-usage-declaration)
@@ -42,7 +42,7 @@ A more technical and independent approach to portfolio creation aligns with my b
 
 In the early sci-fi novel, The Machine Stops, E.M. Forster warned of a society that placed blind trust in a system no one truly understood. <q>“You talk as if a god had made the Machine… I believe that you pray to it when you are unhappy. Men made it, do not forget that.”</q> (Forster, 1928). We must be careful not to confuse convenience with resilience. By engaging directly with web code, I’m better positioned to problem-solve, advocate for inclusive design, and promote technical curiosity. These are essential traits in a digitally fluent educator.
 
-## Reflective Area 1 Operational Issues (PSF A2, A4, K4, V2)
+## Reflective Area 1 Operational Issues
 
 <img
 class="align-right"
@@ -51,19 +51,21 @@ alt="Decortative Image"
 width="300"
 loading="lazy"
 />
-A core part of my practice involves teaching students how to utilise tools like Copilot and other digital technologies to support their everyday learning. This trflects my own practice. For example, when I was running an Excel tutorial and discovered that key learning materials had been deprecated, I used Copilot in real-time to generate a new learning activity based on prompts that students helped craft. This turned what could've been a failure into a moment of digital empowerment. Students saw that a lack of knowledge wasn't a dead end it was an opportunity for collaboration, experimentation, and co-creation.
+A core part of my practice involves teaching students how to utilise tools like Copilot and other digital technologies to support their everyday learning. Generative Artifical Intelligence (Gen AI) is rapidly becoming a widely adopted tool in everyday life. It is inline with PSF K2 to help students to learn how to appropriately use this tool to support their studies and as a subject in its own right. This reflects my own practice. For example, when I was running an Excel tutorial and discovered that key learning materials had been deprecated, I used Copilot in real-time to generate a new learning activity based on prompts that students helped craft. This turned what could've been a failure into a moment of digital empowerment. Students saw that a lack of knowledge wasn't a dead end it was an opportunity for collaboration, experimentation, and co-creation.
 
-Copilot excels in many areas particularly as a personal tutor or coach. Its ability to understand natural language, propose ideas, and reframe problems makes it particularly useful for students with lower confidence or those from non-traditional learning backgrounds. But it's not without constraints. Enterprise-level censorship, hallucinations, and limited philosophical depth can frustrate more advanced users. In particular, Microsoft has implemented filters in Copilot that block certain terms from being used, such as those associated with violence, politics, or elections, which can hinder academic inquiry in higher education (Field, 2024). In terms of ethical use, Copilot's cheerful tone sometimes masks a lack of clarity about its boundaries, and it can become evasive when questioned about deeper topics.
+Copilot excels in many areas particularly as a personal tutor or coach. Its ability to understand natural language, propose ideas, and reframe problems makes it very useful for students with lower confidence or those from non-traditional learning backgrounds. This reflects PSF V2 to help ensure the equity of access to opportunity. But it's not without constraints. Enterprise-level censorship, hallucinations, and limited philosophical depth can frustrate more advanced users. In particular, Microsoft has implemented filters in Copilot that block certain terms from being used, such as those associated with violence, politics, or elections, which can hinder academic inquiry in higher education (Field, 2024). In terms of ethical use, Copilot's cheerful tone sometimes masks a lack of clarity about its boundaries, and it can become evasive when questioned about deeper topics.
 
-Additionally I am implementing SCIM (System for Cross-domain Identity Management) and LTI (Learning Tools Interoperability) integrations to ensure improved access to LinkedIn Learning across Moodle. This technical foundation is helpinh embed digital learning more meaningfully within the student experience.
+Additionally I am implementing SCIM (System for Cross-domain Identity Management) and LTI (Learning Tools Interoperability) integrations to ensure improved access to LinkedIn Learning across Moodle. This technical foundation is helping embed digital learning more meaningfully within the student experience. Whilst a technical activity the integration into Moodle is supportive of PSF A2 as the students all use Moodle as do their tutors and it is appropriate to use this somewhat familiar environment as a bridge to new learning. Students and tutors will have fewer steps to access the leanring mateirals of LinkedIn Learning by it being embedded in Moodle. As Moodle is the preferred learning environment at the institution it makes sense to remove barriers to uptake to more resources by simplying the access to them. SCIM will mean that students will have smoother access to LinkedIn LEarning materials but also, tutors will be able to track learning in the Moodle system, along side their own materials that they are teaching with. 
 
-In the development of the Digital Backpack I have been working cross-institutionally to address a critical gap in student skills assessment (Jisc, 2019). The project reflects my ability to manage complex TEL initiatives aligned with both pedagogical goals and institutional strategy. Through iterative consultation, I ensured the design was both pedagogically robust and operationally feasible.
+In the development of the Digital Backpack I have been working cross-institutionally to address a critical gap in student skills assessment (Jisc, 2019). The project reflects my ability to manage complex TEL initiatives aligned with both pedagogical goals and institutional strategy. Through iterative consultation, I ensured the design was both pedagogically robust and operationally feasible. The assessment is an important starting point in making sure that learners receive the right support and guidance (PSF A4) to develop their digital skills. Confidence building is a key part of my work in teaching digital skills. The Digital Backpack is an extension of confidence measuring that I use in my workshops. One of my teaching observers has remarked "Starting the session with an individual confidence-level test is a great way to encourage people to think about their prior knowledge". The Digital Backpack will encourage further more detailed reflection to help students recognise the areas they need to address.
 
-Increasingly I champion Markdown as core TEL production tool. Markdown is one of the oldest and most robust text formats available and has particular value in education because of its accessibility, structure, and long-term archival viability. As Oelen and Auer (Oelen and Auer, 2019) note, <q>"it is possible to create presentation slides without the need of visual interaction, making it suitable for non-sighted users,"</q> highlighting Markdown's compatibility with screen readers and keyboard-only navigation. Unfortunately, Microsoft's broader ecosystem isn't Markdown-friendly. Word and Teams, for instance, don't offer clean Markdown workflows, which can present real limitations when working with screen readers or preparing structured content for future reuse.
+ I have learnt that it is very difficult to combat subjectivitity in teh development of assessment tools, such as these. We all have biases but I feel by engaging with students and colleage in the development process I have the best chance of reducing their impact. The Digital Backpack is in its first interation and I am keen to emphasise that there is much to be learnt and gathering and acting on the lessons will ensure that the tool becomes more finissed and mroe useful. 
+
+Increasingly I champion Markdown as core TEL production tool. Markdown is one of the oldest and most robust text formats available and has particular value in education because of its accessibility, structure, and long-term archival viability. As Oelen and Auer (Oelen and Auer, 2019) note, <q>"it is possible to create presentation slides without the need of visual interaction, making it suitable for non-sighted users,"</q> highlighting Markdown's compatibility with screen readers and keyboard-only navigation. Unfortunately, Microsoft's broader ecosystem isn't Markdown-friendly. Word and Teams, for instance, don't offer clean Markdown workflows, which can present real limitations when working with screen readers or preparing structured content for future reuse. 
 
 [↑ Back to top](#introduction)
 
-## Reflective Area 2 – Learning, Teaching and Assessment (PSF A1, A2, A3, K2, K3, V1, V2)
+## Reflective Area 2 – Learning, Teaching and Assessment
 
 <img
 class="align-left"
@@ -72,17 +74,17 @@ alt="Decortative Image"
 width="300"
 loading="lazy"
 />
-All of my teaching currently takes place online, primarily through Microsoft Teams. I've adapted my sessions to be fully interactive, even when students don't turn on their cameras. Tools like MentiMeter and Microsoft Forms allow me to create moments of live feedback and insight. These tools directly support a constructivist approach by enabling students to co-construct understanding through peer insight, shared questions, and formative, interactive contributions in real time. These tools help students who might otherwise be silent in a traditional classroom feel seen and heard. Menti's anonymity, in particular, is powerful it gives students permission to admit they don't know something, or to experiment with an idea they aren't confident in yet.
+All of my teaching currently takes place online, primarily through Microsoft Teams. I've adapted my sessions to be fully interactive, even when students don't turn on their cameras. This approach reflects PSF A1 and A2, is important to acknowledge how the students prefer to act online and design and plan the learning accordingly. The teaching needs to adapt to the social reality that the online space is different to the physical. Tools like MentiMeter and Microsoft Forms allow me to create moments of live feedback and insight. These tools directly support a constructivist approach by enabling students to co-construct understanding through peer insight, shared questions, and formative, interactive contributions in real time. These tools help students who might otherwise be silent in a traditional classroom feel seen and heard. Menti's anonymity, in particular, is powerful it gives students permission to admit they don't know something, or to experiment with an idea they aren't confident in yet. Tools allowing for anonyminity are incredibly helpful when meeting PSF A3 by allowing the tutor to give direct feedback without identifying the student.
 
-Copilot has become foundational to my teaching strategy. In an Excel session, for example, students were able to use Copilot to create custom tutorials based on their own goals and questions. This not only increased relevance but showed students how to take ownership of their learning journey. Separately, when demonstrating Microsoft Word's Editor feature which is distinct from Copilot and focuses on spelling, grammar, and style many students were surprised to learn they already had access to such targeted support. These features are particularly empowering for those with lower academic English levels or dyslexia, providing real-time feedback that enhances writing quality without requiring generative input. This aligns with recent research showing that AI-enhanced tools, such as those that restructure and annotate text, can significantly improve the learning experience for students with dyslexia by reducing cognitive load and supporting comprehension (Zhao et al., 2025).
+Copilot has become foundational to my teaching strategy. In an Excel session, for example, students were able to use Copilot to create custom tutorials based on their own goals and questions. This not only increased relevance but showed students how to take ownership of their learning journey. This is supportive of PSF K2 and supports the learner but gives them agency in their own learning journey. Separately, when demonstrating Microsoft Word's Editor feature which is distinct from Copilot and focuses on spelling, grammar, and style many students were surprised to learn they already had access to such targeted support. These features are particularly empowering for those with lower academic English levels or dyslexia, providing real-time feedback that enhances writing quality without requiring generative input. This aligns with recent research showing that AI-enhanced tools, such as those that restructure and annotate text, can significantly improve the learning experience for students with dyslexia by reducing cognitive load and supporting comprehension (Zhao et al., 2025). Since Gen AI can be controlled directly by the learner we can meet PSF V1 and retain respect for an individual in a diverse environment as the learner can decide how they will use AI to support their learning.
 
-I've also noticed that TEL can be a double-edged sword. At a personal level the lack of student cameras can make teaching online feel isolating, and bandwidth limitations or noisy environments mean many students attend from less-than-ideal locations. However, by incorporating chat-based interaction, flexible feedback loops, and design that anticipates these limitations, we still create valuable experiences.
+I've also noticed that TEL can be a double-edged sword. At a personal level the lack of student cameras can make teaching online feel isolating, and bandwidth limitations or noisy environments mean many students attend from less-than-ideal locations. However, by incorporating chat-based interaction, flexible feedback loops, and design that anticipates these limitations, we still create valuable experiences. I am committed to promote engagement with learning (PSF V2) but in order to remain engaged myself and discover the students are at I have ad to develop different approaches and uses of the technology.
 
 Inclusion remains a priority. Many of our students are multilingual, and some have experienced educational trauma. When one mature student, previously bullied in her workplace over digital skills, realised she could use Copilot to reframe complex information in her own words, she cried with relief. That moment reminded me of the profound emotional and psychological role TEL can play in helping people reclaim their agency.
 
 [↑ Back to top](#introduction)
 
-## Reflective Area 3 – Wider Context (PSF A4, A5, K6, V4)
+## Reflective Area 3 – Wider Context
 
 <img
 class="align-right"
@@ -91,9 +93,9 @@ alt="Decortative Image"
 width="300"
 loading="lazy"
 />
-Accessibility and data ethics are foundational concerns in my work. My MSc dissertation, _Can a Virtual Learning Environment Interface Meet the Needs of Dyslexics and Non-Dyslexics?_ (Smith, 2001), focused on interface design for learners with specific needs, particularly around reducing a prescriptive approach to lesson design, often shaped by rigid or inflexible syllabus-driven models. Since then, I've contributed to JISC publications on accessibility (Smith, 2002). These principles continue to shape my TEL work today, especially in designing tools and resources that account for diverse learning styles and neurodiversity.
+Accessibility and data ethics are foundational concerns in my work. My MSc dissertation, _Can a Virtual Learning Environment Interface Meet the Needs of Dyslexics and Non-Dyslexics?_ (Smith, 2001), focused on interface design for learners with specific needs, particularly around reducing a prescriptive approach to lesson design, often shaped by rigid or inflexible syllabus-driven models. Since then, I've contributed to JISC publications on accessibility (Smith, 2002). These principles continue to shape my TEL work today, especially in designing tools and resources that account for diverse learning styles and neurodiversity. I continue to attain new Continuing Professional Development (CPD) certificates and use tools like LinkedIn Learning to enhance and update my practice (PSF A5). Additionally I collaborate with peers through formal and informal networks to mutally enhance our practices (PSF V5).
 
-Ethically, we face difficult questions around AI. Scholars, such as Selwyn (Selwyn, 2019) and Luckin (Luckin, 2018), argue that while AI presents opportunities for personalised learning, it also raises issues around equity, bias, and educational values. Should students be allowed to write essays in their first language and use AI to translate into English? Current policy says no but we admit students knowing they don't yet have academic English proficiency. If we're not willing to allow AI-assisted translation, are we also willing to ban private tutoring, which creates far greater inequality? These are the kinds of dilemmas we need to address honestly and empathetically.
+Ethically, we face difficult questions around AI. Scholars, such as Selwyn (Selwyn, 2019) and Luckin (Luckin, 2018), argue that while AI presents opportunities for personalised learning, it also raises issues around equity, bias, and educational values. Should students be allowed to write essays in their first language and use AI to translate into English? Current policy says no but we admit students knowing they don't yet have academic English proficiency. If we're not willing to allow AI-assisted translation, are we also willing to ban private tutoring, which creates far greater inequality? These are the kinds of dilemmas we need to address honestly and empathetically. We need debate on these issues, the AI technology has great potential to bring equity and broad opportunity to education inline with PSF V2 but without professional discussion and challenges to the status quo we risk losing the chance to bring enhancement to a broader diverse range of learners. 
 
 I teach students that managing information isn't about hoarding it's about stewardship: knowing where your data is, why it's there, and who can access it. This sits alongside my wider work in promoting open standards and accessible formats. Both data practices and content choices reflect a deeper commitment to transparency, control, and learner autonomy.
 
@@ -102,7 +104,7 @@ Many students at Greenwich face significant digital inequality. My work on the D
 This is an undeniably exciting time for artificial intelligence in education. There are unprecedented opportunities for personalisation, automation, and insight. However, it differs significantly from earlier digital transformations such as the rise of the web which were largely built on open-source principles and decentralised infrastructure. Generative AI, by contrast, demands vast computing power and costly infrastructure. While open-source models are emerging and can be adapted or fine-tuned locally, the dominant players such as Copilot, ChatGPT, and Gemini remain proprietary, closed-source systems that are expensive to access and tightly controlled by large corporations. This raises important questions for education. If institutions embed AI tools deeply into their teaching and operational practices, what happens when those tools are owned and governed by profit-driven companies? As Bill Gates observed, the AI provider that builds the most effective personal agent may come to dominate how users access and interact with digital services. For education, this prompts careful consideration: should we rely so heavily on one supplier? Can we maintain flexibility, transparency, and pedagogical integrity in an AI landscape that is increasingly centralised?
 
 > “There will be one company that creates a personal agent that will understand all your activities... That's a big thing because you'll never go to a search site again. You'll never go to a productivity tool again. You'll never go to Amazon again. Everything will be mediated through your agent... Whoever wins that will take the current dispersed, high profit areas, and move them into a single area.”
-> Gates, B. (2023)
+> Gates, (2023)
 
 [↑ Back to top](#introduction)
 
@@ -115,15 +117,15 @@ alt="Decortative Image"
 width="300"
 loading="lazy"
 />
-My core area of specialist interest is the intersection of generative AI, immersive environments, and personalised learning. I'm especially drawn to open-source AI models that can run locally and be combined with Retrieval-Augmented Generation (RAG) frameworks. With these tools, we can let students interrogate large sets of course data, reading lists, and materials using natural language—in their own voice and at their own pace.
+My core area of specialist interest is the intersection of generative AI, immersive environments, and personalised learning. I'm especially drawn to open-source AI models that can run locally and be combined with Retrieval-Augmented Generation (RAG) frameworks. With these tools, we can let students interrogate large sets of course data, reading lists, and materials using natural language—in their own voice and at their own pace. I  believe it is in the spirit of PSF A5 to enhance my practice by developing these skills and pushing the boundaries of the technology in learning. 
 
-I see huge potential for building learning companions that aren't just reactive but contextual. Imagine a student in an immersive VR space, moving through course content visually, spatially, and interactively—asking questions, testing ideas, and receiving tailored responses from a localised, privacy-respecting AI tutor. It's an ambitious vision, but one that feels like the natural evolution of TEL.
+I see huge potential for building learning companions that aren't just reactive but contextual. Imagine a student in an immersive VR space, moving through course content visually, spatially, and interactively—asking questions, testing ideas, and receiving tailored responses from a localised, privacy-respecting AI tutor. It's an ambitious vision, but one that feels like the natural evolution of TEL and reflects PSF K1 by giving students more choice in how they can interact with their learning.
 
-I'm also concerned about the lack of open standards. Knox (2020) highlights how AI integration into education systems can reflect national and corporate priorities, potentially compromising educational autonomy. While tools like Copilot are powerful, their opacity and corporate ties limit their educational potential. We need transparent, accountable AI systems if we want to support academic freedom and innovation. I believe in technology as a democratising force but only if it remains open, ethical, and student-focused.
+I'm also concerned about the lack of open standards. Knox (Knox, 2020) highlights how AI integration into education systems can reflect national and corporate priorities, potentially compromising educational autonomy. While tools like Copilot are powerful, their opacity and corporate ties limit their educational potential. We need transparent, accountable AI systems if we want to support academic freedom and innovation. I believe in technology as a democratising force but only if it remains open, ethical, and student-focused.
 
 [↑ Back to top](#introduction)
 
-## Professional Development Planning (PSF A5, V3)
+## Professional Development Planning
 
 <img
 class="align-right"
@@ -132,7 +134,7 @@ alt="Decortative Image"
 width="300"
 loading="lazy"
 />
-My next formal step is applying for CMALT, which I see as a way to consolidate and articulate the TEL journey I'm already on. I'm fortunate to work alongside several Certified Members of ALT, and I look forward to joining that professional community.
+My next formal step is applying for CMALT, which I see as a way to consolidate and articulate the TEL journey I'm already on. I'm fortunate to work alongside several Certified Members of ALT, and I look forward to joining that professional community. As with PSF V3 I am committed to evidence my learning approaches and develop my practice. I beleive CMALT recognition is one way of doing this.
 
 Longer term, I'd like to explore collaborative research around generative AI in education, including projects like the Digital Backpack by our digital capability assessment and credentialing tool. I also want to improve my programming fluency so I can prototype some of the learning tools I imagine. Right now, Generative AI itself is helping me do that, guiding me through Python and JavaScript as I experiment.
 
@@ -140,7 +142,7 @@ Eventually, I'd like to contribute more actively to the field through publicatio
 
 [↑ Back to top](#introduction)
 
-## Conclusion (PSF V1, V2, V3, V4)
+## Conclusion
 
 <img
 class="align-left"
