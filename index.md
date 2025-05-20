@@ -50,8 +50,8 @@ In the early science fiction novel *The Machine Stops*, E. M. Forster warned of 
 [↑ Back to top](#section)
 
 ## Reflective Area 1 – Operational Issues
-<details open>
-  <summary>Click to expand/collapse this section</summary>
+<details>
+  <summary>Expand or collapse this section</summary>
 
 <img
 class="align-right"
@@ -73,7 +73,7 @@ I have learned that it is very difficult to combat subjectivity in the developme
 
 Increasingly, I champion Markdown as a core TEL production tool. Markdown is one of the oldest and most robust text formats available and has particular value in education because of its accessibility, structure, and long-term archival viability. As Oelen and Auer (2019) note, <q>“it is possible to create presentation slides without the need for visual interaction, making it suitable for non-sighted users,”</q> highlighting Markdown’s compatibility with screen readers and keyboard-only navigation. Unfortunately, Microsoft’s broader ecosystem isn’t Markdown-friendly. Word and Teams, for instance, don’t offer clean Markdown workflows, which can present real limitations when working with screen readers or preparing structured content for future reuse.
 
-[↑ Back to top](#introduction)
+[↑ Back to top](#section)
 </details>
 
 ## Reflective Area 2 – Learning, Teaching and Assessment
