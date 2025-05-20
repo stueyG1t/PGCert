@@ -2,6 +2,7 @@
 layout: home
 title: Stuart's PGCert Portfolio
 ---
+### Sections
 - [Introduction](#introduction)
 - [Reflective Area 1 Operational Issues](#reflective-area-1-operational-issues)
 - [Reflective Area 2 – Learning, Teaching and Assessment](#reflective-area-2--learning-teaching-and-assessment)
@@ -45,6 +46,8 @@ As part of the PGCert module, we were encouraged to use Microsoft <a id="back-to
 This more technical and independent approach aligns with my belief that educators should understand the underlying technologies they use. <a id="back-to-wysiwyg"></a>[WYSIWYG](#glossary-wysiwyg) (What You See Is What You Get) tools like Sway or <a id="back-to-squarespace"></a>[Squarespace](#glossary-squarespace) provide ease of use, but can mask important issues around accessibility and interoperability.
 
 In the early science fiction novel *The Machine Stops*, E. M. Forster warned of a society that placed blind trust in a system no one truly understood: “You talk as if a god had made the Machine… I believe that you pray to it when you are unhappy. Men made it, do not forget that” (Forster, 1928). We must be careful not to confuse convenience with resilience. By engaging directly with web code, I am better positioned to problem-solve, advocate for inclusive design, and promote technical curiosity—essential traits for a digitally fluent educator.
+
+[↑ Back to top](#section)
 
 ## Reflective Area 1 – Operational Issues
 <details open>
