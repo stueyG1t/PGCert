@@ -270,7 +270,6 @@ loading="lazy"
 
 - Zhao, W., Yang, M., Zhang, H., Liu, Y., and Chen, H. (2025) ‘Let AI read first: Enhancing reading abilities for individuals with dyslexia through artificial intelligence’, *arXiv*. Available at: https://arxiv.org/abs/2504.00941 (Accessed: 20 May 2025).
 
-
 [↑ Back to top](#sections)
 
 ## AI Usage Declaration
@@ -283,7 +282,7 @@ loading="lazy"
   - [https://www.jisc.ac.uk/rd/projects/building-digital-capability](https://www.jisc.ac.uk/rd/projects/building-digital-capability)
   - [https://www.cnbc.com/2024/03/08/microsoft-blocking-terms-that-cause-its-ai-to-create-violent-images.html](https://www.cnbc.com/2024/03/08/microsoft-blocking-terms-that-cause-its-ai-to-create-violent-images.html)
   - Oelen, A. and Auer, S. (2019) ‘Content Authoring with Markdown for Visually Impaired and Blind Users
-   
+  
   [↑ Back to top](#sections)
 
 ## Credits
