@@ -51,6 +51,7 @@ defaults:
     values:
       layout: post
       share: true
+      custom_head: head-custom
 
 # Author
 author:
