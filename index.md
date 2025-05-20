@@ -6,7 +6,7 @@ title: Stuart's PGCert Portfolio
 - [Reflective Area 1 Operational Issues](#reflective-area-1-operational-issues)
 - [Reflective Area 2 – Learning, Teaching and Assessment](#reflective-area-2--learning-teaching-and-assessment)
 - [Reflective Area 3 – Wider Context](#reflective-area-3--wider-context)
-- [Reflective Area 4 – Specialist Interest (PSF A5, K1, K4, K5, V3)](#reflective-area-4--specialist-interest-psf-a5-k1-k4-k5-v3)
+- [Reflective Area 4 – Specialist Interest](#reflective-area-4--specialist-interest)
 - [Professional Development Planning](#professional-development-planning)
 - [Conclusion](#conclusion)
 - [Glossary of Terms](#glossary-of-terms)
@@ -47,7 +47,7 @@ This more technical and independent approach aligns with my belief that educator
 In the early science fiction novel *The Machine Stops*, E. M. Forster warned of a society that placed blind trust in a system no one truly understood: “You talk as if a god had made the Machine… I believe that you pray to it when you are unhappy. Men made it, do not forget that” (Forster, 1928). We must be careful not to confuse convenience with resilience. By engaging directly with web code, I am better positioned to problem-solve, advocate for inclusive design, and promote technical curiosity—essential traits for a digitally fluent educator.
 
 <details open>
-  <summary>## Reflective Area 1 – Operational Issues</summary>
+  <summary><h2>Reflective Area 1 – Operational Issues</h2></summary>
 
 <img
 class="align-right"
@@ -122,9 +122,8 @@ Looking ahead, I am increasingly concerned by the **centralisation of digital le
 
 > “There will be one company that creates a personal agent... Everything will be mediated through your agent... Whoever wins that will take the current dispersed, high profit areas, and move them into a single area.”  
 > — Bill Gates (2023)
-> 
+>
 In this context, I believe educators must not only adopt digital tools but also interrogate their provenance, governance, and implications. This responsibility is central to my professional practice as a digitally literate and ethically grounded educator.
-
 
 [↑ Back to top](#introduction)
 
