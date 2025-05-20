@@ -51,6 +51,7 @@ loading="lazy"
 [↑ Back to top](#sections)
 
 ## Reflective Area 1 – Operational Issues
+
 <details open>
   <summary>Expand or collapse this section</summary>
 
