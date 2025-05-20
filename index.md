@@ -42,7 +42,7 @@ loading="lazy"
 
 <p>For example, a recent session I ran on digital wellbeing was heavily disrupted by a compulsory, unscheduled hardware update. Rather than conceal my frustration or embarrassment, I shared the experience openly with the students. This prompted sympathetic responses and, more importantly, conversations about shared coping strategies. It became a live opportunity to reinforce the idea that in a technology-led world, human connection, adaptability, and reflection remain critical. In this way, I model humanist and constructivist values while equipping students to navigate imperfect digital systems.</p>
 
-<p>As part of the PGCert module, we were encouraged to use Microsoft <a href="#glossary-sway" id="back-to-sway">Sway</a> to present our portfolios. While Sway is a valuable tool within the Microsoft 365 ecosystem, I chose to build my portfolio using <a #glossary-jekyll id="back-to-jekyll">Jekyll</a> and <a href="#glossary-markdown" id="back-to-markdown">Markdown</a>. This is a technically more challenging solution, but it offers advantages such as speed, flexibility, and stronger compliance with accessibility standards. Combining Markdown with HTML, CSS, and other web technologies creates a fast-loading, low-resource, and highly customisable platform for sharing information.</p>
+<p>As part of the PGCert module, we were encouraged to use Microsoft <a href="#glossary-sway" id="back-to-sway">Sway</a> to present our portfolios. While Sway is a valuable tool within the Microsoft 365 ecosystem, I chose to build my portfolio using <a href="#glossary-jekyll" id="back-to-jekyll">Jekyll</a> and <a href="#glossary-markdown" id="back-to-markdown">Markdown</a>. This is a technically more challenging solution, but it offers advantages such as speed, flexibility, and stronger compliance with accessibility standards. Combining Markdown with HTML, CSS, and other web technologies creates a fast-loading, low-resource, and highly customisable platform for sharing information.</p>
 
 <p>This more technical and independent approach aligns with my belief that educators should understand the underlying technologies they use. <a href="#glossary-wysiwyg" id="back-to-wysiwyg">WYSIWYG</a> (What You See Is What You Get) tools like Sway or <a href="#glossary-squarespace" id="back-to-squarespace">Squarespace</a> provide ease of use, but can mask important issues around accessibility and interoperability.</p>
 
@@ -104,7 +104,7 @@ loading="lazy"
 <p>Finally, I continue to advocate for Markdown as a core TEL production tool. As one of the oldest and most robust text formats, Markdown offers structure, accessibility, and long-term viability. It is screen reader–friendly and supports keyboard navigation—benefits highlighted by Oelen and Auer (2019), who note that “it is possible to create presentation slides without the need for visual interaction, making it suitable for non-sighted users.” Unfortunately, Microsoft’s ecosystem is not optimised for Markdown. Tools like Word and Teams do not support clean Markdown workflows, limiting accessibility and reusability for content creators and users alike.</p>
 
 </details>
-[↑ Back to top](#introduction)
+[↑ Back to top](#sections)
 
 ## Reflective Area 3 – Wider Context
 <details open>
@@ -134,7 +134,7 @@ loading="lazy"
 <p>In this context, I believe educators must not only adopt digital tools but also interrogate their provenance, governance, and implications. This responsibility is central to my professional practice as a digitally literate and ethically grounded educator.</p>
 
 </details>
-[↑ Back to top](#introduction)
+[↑ Back to top](#sections)
 
 ## Reflective Area 4 – Specialist Interest
 <details open>
@@ -163,7 +163,7 @@ loading="lazy"
 
 
 </details>
-[↑ Back to top](#introduction)
+[↑ Back to top](#sections)
 ## Professional Development Planning
 <details open>
   <summary>Expand or collapse this section</summary>
@@ -182,7 +182,7 @@ loading="lazy"
 <p>Eventually, I hope to contribute more actively to the field through <em>publications**, <em>collaborative tool-building**, and knowledge exchange. I am also considering pursuing a <em>PhD**, though for now my focus remains on <em>meaningful, practice-led development </em>that empowers students and reimagines how assessment and learning can be approached in a rapidly changing educational landscape.</p>
 
 </details>
-[↑ Back to top](#introduction)
+[↑ Back to top](#sections)
 ## Conclusion
 <details open>
   <summary>Expand or collapse this section</summary>
@@ -203,7 +203,7 @@ loading="lazy"
 <p>I conclude this phase of my professional development with a clearer sense of direction and a renewed belief that while technology often introduces new challenges, it also unlocks opportunities for creativity, inclusion, and transformation—particularly when guided by reflective and ethically grounded educators.</p>
 
 </details>
-[↑ Back to top](#introduction)
+[↑ Back to top](#sections)
 ## Glossary of Terms
 
 ### <a id="glossary-ar"></a>AR (Augmented Reality)
@@ -239,7 +239,7 @@ loading="lazy"
 [↩ Return](#back-to-wysiwyg)
 
 
-[↑ Back to top](#introduction)
+[↑ Back to top](#sections)
 
 ## Bibliography
 
@@ -270,7 +270,7 @@ loading="lazy"
 - Zhao, W., Yang, M., Zhang, H., Liu, Y., and Chen, H. (2025) ‘Let AI read first: Enhancing reading abilities for individuals with dyslexia through artificial intelligence’, *arXiv*. Available at: https://arxiv.org/abs/2504.00941 (Accessed: 20 May 2025).
 
 
-[↑ Back to top](#introduction)
+[↑ Back to top](#sections)
 
 ## AI Usage Declaration
 
@@ -283,7 +283,7 @@ loading="lazy"
   - [https://www.cnbc.com/2024/03/08/microsoft-blocking-terms-that-cause-its-ai-to-create-violent-images.html](https://www.cnbc.com/2024/03/08/microsoft-blocking-terms-that-cause-its-ai-to-create-violent-images.html)
   - Oelen, A. and Auer, S. (2019) ‘Content Authoring with Markdown for Visually Impaired and Blind Users
    
-  [↑ Back to top](#introduction)
+  [↑ Back to top](#sections)
 
 ## Credits
 
@@ -295,4 +295,4 @@ loading="lazy"
 - Photo by Fotis Fotopoulos on Unsplash
 - Photo by Seema Miah on Unsplash
 
-[↑ Back to top](#introduction)
+[↑ Back to top](#sections)
