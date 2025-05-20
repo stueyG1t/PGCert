@@ -4,7 +4,7 @@ title: Stuart's PGCert Portfolio
 ---
 ### Sections
 - [Introduction](#introduction)
-- [Reflective Area 1 Operational Issues](#reflective-area-1-operational-issues)
+- [Reflective Area 1 - Operational Issues](#reflective-area-1--operational-issues)
 - [Reflective Area 2 – Learning, Teaching and Assessment](#reflective-area-2--learning-teaching-and-assessment)
 - [Reflective Area 3 – Wider Context](#reflective-area-3--wider-context)
 - [Reflective Area 4 – Specialist Interest](#reflective-area-4--specialist-interest)
