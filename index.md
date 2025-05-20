@@ -22,7 +22,7 @@ title: Stuart's PGCert Portfolio
 3. A [Credits](#credits) section is included to acknowledge image sources.
 
 ## Introduction
-<details>
+<details open>
   <summary>Expand or collapse this section</summary>
 <img
 class="align-left"
@@ -50,7 +50,7 @@ In the early science fiction novel *The Machine Stops*, E. M. Forster warned of 
 </details>
 [↑ Back to top](#sections)
 ## Reflective Area 1 – Operational Issues
-<details>
+<details open>
   <summary>Expand or collapse this section</summary>
 
 <img
@@ -73,12 +73,11 @@ I have learned that it is very difficult to combat subjectivity in the developme
 
 Increasingly, I champion Markdown as a core TEL production tool. Markdown is one of the oldest and most robust text formats available and has particular value in education because of its accessibility, structure, and long-term archival viability. As Oelen and Auer (2019) note, <q>“it is possible to create presentation slides without the need for visual interaction, making it suitable for non-sighted users,”</q> highlighting Markdown’s compatibility with screen readers and keyboard-only navigation. Unfortunately, Microsoft’s broader ecosystem isn’t Markdown-friendly. Word and Teams, for instance, don’t offer clean Markdown workflows, which can present real limitations when working with screen readers or preparing structured content for future reuse.
 
+</details>
 [↑ Back to top](#sections)
 
-</details>
-
 ## Reflective Area 2 – Learning, Teaching and Assessment
-<details>
+<details open>
   <summary>Expand or collapse this section</summary>
 <img
 class="align-left"
@@ -104,11 +103,11 @@ I have learned that it is difficult to completely eliminate subjectivity in asse
 
 Finally, I continue to advocate for Markdown as a core TEL production tool. As one of the oldest and most robust text formats, Markdown offers structure, accessibility, and long-term viability. It is screen reader–friendly and supports keyboard navigation—benefits highlighted by Oelen and Auer (2019), who note that “it is possible to create presentation slides without the need for visual interaction, making it suitable for non-sighted users.” Unfortunately, Microsoft’s ecosystem is not optimised for Markdown. Tools like Word and Teams do not support clean Markdown workflows, limiting accessibility and reusability for content creators and users alike.
 
-[↑ Back to top](#introduction)
 </details>
+[↑ Back to top](#introduction)
 
 ## Reflective Area 3 – Wider Context
-<details>
+<details open>
   <summary>Expand or collapse this section</summary>
 
 <img
@@ -134,11 +133,11 @@ Looking ahead, I am increasingly concerned by the **centralisation of digital le
 >
 In this context, I believe educators must not only adopt digital tools but also interrogate their provenance, governance, and implications. This responsibility is central to my professional practice as a digitally literate and ethically grounded educator.
 
-[↑ Back to top](#introduction)
 </details>
+[↑ Back to top](#introduction)
 
 ## Reflective Area 4 – Specialist Interest
-<details>
+<details open>
   <summary>Expand or collapse this section</summary>
 <img
 class="align-left"
@@ -163,10 +162,10 @@ In my own work, I advocate for **transparent, student-focused AI systems** that 
 I believe in technology as a **democratising force**—but only if it remains open, ethical, and aligned with student empowerment, not corporate convenience. This vision underpins both my technical practice and my pedagogical stance.
 
 
-[↑ Back to top](#introduction)
 </details>
+[↑ Back to top](#introduction)
 ## Professional Development Planning
-<details>
+<details open>
   <summary>Expand or collapse this section</summary>
 <img
 class="align-right"
@@ -182,10 +181,10 @@ In the longer term, I aim to explore collaborative research into the role of **g
 
 Eventually, I hope to contribute more actively to the field through **publications**, **collaborative tool-building**, and knowledge exchange. I am also considering pursuing a **PhD**, though for now my focus remains on **meaningful, practice-led development** that empowers students and reimagines how assessment and learning can be approached in a rapidly changing educational landscape.
 
-[↑ Back to top](#introduction)
 </details>
+[↑ Back to top](#introduction)
 ## Conclusion
-<details>
+<details open>
   <summary>Expand or collapse this section</summary>
 <img
 class="align-left"
@@ -203,8 +202,8 @@ It has also deepened my interest in systemic innovation—whether through immers
 
 I conclude this phase of my professional development with a clearer sense of direction and a renewed belief that while technology often introduces new challenges, it also unlocks opportunities for creativity, inclusion, and transformation—particularly when guided by reflective and ethically grounded educators.
 
-[↑ Back to top](#introduction)
 </details>
+[↑ Back to top](#introduction)
 ## Glossary of Terms
 
 ### <a id="glossary-ar"></a>AR (Augmented Reality)
