@@ -193,31 +193,38 @@ I conclude this phase of my professional development with a clearer sense of dir
 
 ## Glossary of Terms
 
-## Glossary
-
 ### <a id="glossary-ar"></a>AR (Augmented Reality)
-**AR (Augmented Reality)** – A technology that overlays digital content onto the physical world, typically through glasses or mobile devices. AR enables interaction with digital elements while maintaining awareness of real-world surroundings.
+**AR (Augmented Reality)** – A technology that overlays digital content onto the physical world, typically through glasses or mobile devices. AR enables interaction with digital elements while maintaining awareness of real-world surroundings.  
+[↩ Return](#back-to-ar)
 
 ### <a id="glossary-jekyll"></a>Jekyll
-**Jekyll** – An open-source static site generator that converts Markdown files into fast-loading websites. It is often used with GitHub Pages and supports customisation through HTML, CSS, and JavaScript.
+**Jekyll** – An open-source static site generator that converts Markdown files into fast-loading websites. It is often used with GitHub Pages and supports customisation through HTML, CSS, and JavaScript.  
+[↩ Return](#back-to-jekyll)
 
 ### <a id="glossary-markdown"></a>Markdown
-**Markdown** – A lightweight plain-text formatting syntax that can be easily converted to HTML. It is widely used to create accessible, structured web content and supports long-term digital preservation.
+**Markdown** – A lightweight plain-text formatting syntax that can be easily converted to HTML. It is widely used to create accessible, structured web content and supports long-term digital preservation.  
+[↩ Return](#back-to-markdown)
 
 ### <a id="glossary-microsoft-mesh"></a>Microsoft Mesh
-**Microsoft Mesh** – A mixed reality platform by Microsoft that enables users to collaborate in immersive, shared virtual environments. Mesh supports both VR headsets and 2D access via laptops, offering flexibility across learning contexts.
+**Microsoft Mesh** – A mixed reality platform by Microsoft that enables users to collaborate in immersive, shared virtual environments. Mesh supports both VR headsets and 2D access via laptops, offering flexibility across learning contexts.  
+[↩ Return](#back-to-mesh)
 
 ### <a id="glossary-squarespace"></a>Squarespace
-**Squarespace** – A commercial website-building platform offering pre-designed templates and WYSIWYG editing tools, allowing users to build sites without writing code.
+**Squarespace** – A commercial website-building platform offering pre-designed templates and WYSIWYG editing tools, allowing users to build sites without writing code.  
+[↩ Return](#back-to-squarespace)
 
 ### <a id="glossary-sway"></a>Sway (Microsoft Sway)
-**Sway (Microsoft Sway)** – A web-based presentation and storytelling app from Microsoft 365. It allows users to create and share interactive reports, portfolios, and presentations using a drag-and-drop interface.
+**Sway (Microsoft Sway)** – A web-based presentation and storytelling app from Microsoft 365. It allows users to create and share interactive reports, portfolios, and presentations using a drag-and-drop interface.  
+[↩ Return](#back-to-sway)
 
 ### <a id="glossary-vr"></a>VR (Virtual Reality)
-**VR (Virtual Reality)** – A computer-generated simulation of a three-dimensional environment, typically experienced through a headset. VR allows users to interact with digital spaces using head and hand movements, offering immersive learning experiences.
+**VR (Virtual Reality)** – A computer-generated simulation of a three-dimensional environment, typically experienced through a headset. VR allows users to interact with digital spaces using head and hand movements, offering immersive learning experiences.  
+[↩ Return](#back-to-vr)
 
 ### <a id="glossary-wysiwyg"></a>WYSIWYG
-**WYSIWYG** – "What You See Is What You Get." A type of editor that displays content as it will appear to users, rather than showing raw markup or code.
+**WYSIWYG** – "What You See Is What You Get." A type of editor that displays content as it will appear to users, rather than showing raw markup or code.  
+[↩ Return](#back-to-wysiwyg)
+
 
 [↑ Back to top](#introduction)
 
