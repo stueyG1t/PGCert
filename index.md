@@ -32,7 +32,7 @@ width="200"
 loading="lazy"
 />
 
-<p>When a student describes your session as *life changing*, it is a special moment. That is one of the most rewarding aspects of my work. I frequently support students who feel left behind in the rapidly changing digital environment, helping them gain confidence and competence. My name is Stuart Smith, and I am the Digital Skills Developer at the University of Greenwich, a unique role focused on student engagement with and appropriate use of digital technologies. This reflects UKPSF dimensions K4 (the use and value of appropriate learning technologies) and V2 (promoting participation in higher education and equality of opportunity for learners).</p>
+<p>When a student describes your session as <strong>"life changing"</strong>, it is a special moment. That is one of the most rewarding aspects of my work. I frequently support students who feel left behind in the rapidly changing digital environment, helping them gain confidence and competence. My name is Stuart Smith, and I am the Digital Skills Developer at the University of Greenwich, a unique role focused on student engagement with and appropriate use of digital technologies. This reflects UKPSF dimensions K4 (the use and value of appropriate learning technologies) and V2 (promoting participation in higher education and equality of opportunity for learners).</p>
 
 <p>My role builds on earlier work in learning technology across both commercial and university settings. It is a challenging but enjoyable position because it spans multiple faculties and disciplines, requiring flexibility and a cross-institutional approach. Greenwich has ambitions to become “digital-first” (University of Greenwich, 2021, p. 45) in terms of working environment and service delivery, and my work directly contributes to this strategy.</p>
 
@@ -46,7 +46,7 @@ loading="lazy"
 
 <p>This more technical and independent approach aligns with my belief that educators should understand the underlying technologies they use. <a href="#glossary-wysiwyg" id="back-to-wysiwyg">WYSIWYG</a> (What You See Is What You Get) tools like Sway or <a href="#glossary-squarespace" id="back-to-squarespace">Squarespace</a> provide ease of use, but can mask important issues around accessibility and interoperability.</p>
 
-<p>In the early science fiction novel *The Machine Stops*, E. M. Forster warned of a society that placed blind trust in a system no one truly understood: “You talk as if a god had made the Machine… I believe that you pray to it when you are unhappy. Men made it, do not forget that” (Forster, 1928). We must be careful not to confuse convenience with resilience. By engaging directly with web code, I am better positioned to problem-solve, advocate for inclusive design, and promote technical curiosity—essential traits for a digitally fluent educator.</p>
+<p>In the early science fiction novel <em>The Machine Stops</em>, E. M. Forster warned of a society that placed blind trust in a system no one truly understood: “You talk as if a god had made the Machine… I believe that you pray to it when you are unhappy. Men made it, do not forget that” (Forster, 1928). We must be careful not to confuse convenience with resilience. By engaging directly with web code, I am better positioned to problem-solve, advocate for inclusive design, and promote technical curiosity—essential traits for a digitally fluent educator.</p>
 </details>
 [↑ Back to top](#sections)
 
