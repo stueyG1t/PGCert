@@ -210,7 +210,7 @@ I conclude this phase of my professional development with a clearer sense of dir
 **AR (Augmented Reality)** – A technology that overlays digital content onto the physical world, typically through glasses or mobile devices. AR enables interaction with digital elements while maintaining awareness of real-world surroundings.  
 [↩ Return](#back-to-ar)
 
-### <a id="glossary-jekyll"></a>Jekyll
+###  [Jekyll](#glossary-jekyll) 
 **Jekyll** – An open-source static site generator that converts Markdown files into fast-loading websites. It is often used with GitHub Pages and supports customisation through HTML, CSS, and JavaScript.  
 [↩ Return](#back-to-jekyll)
 
