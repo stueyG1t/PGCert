@@ -28,14 +28,5 @@ summary {
     float: right;
     margin-left: 10px;
   }
-  
-  summary::after {
-    content: "▼";
-    float: right;
-    margin-left: 10px;
-  }
-  
-  details[open] > summary::after {
-    content: "▲";
-  }
+
   
