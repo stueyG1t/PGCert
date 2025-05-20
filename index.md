@@ -46,7 +46,8 @@ This more technical and independent approach aligns with my belief that educator
 
 In the early science fiction novel *The Machine Stops*, E. M. Forster warned of a society that placed blind trust in a system no one truly understood: “You talk as if a god had made the Machine… I believe that you pray to it when you are unhappy. Men made it, do not forget that” (Forster, 1928). We must be careful not to confuse convenience with resilience. By engaging directly with web code, I am better positioned to problem-solve, advocate for inclusive design, and promote technical curiosity—essential traits for a digitally fluent educator.
 
-## Reflective Area 1 Operational Issues
+<details open>
+  <summary>## Reflective Area 1 – Operational Issues</summary>
 
 <img
 class="align-right"
@@ -69,6 +70,7 @@ I have learned that it is very difficult to combat subjectivity in the developme
 Increasingly, I champion Markdown as a core TEL production tool. Markdown is one of the oldest and most robust text formats available and has particular value in education because of its accessibility, structure, and long-term archival viability. As Oelen and Auer (2019) note, <q>“it is possible to create presentation slides without the need for visual interaction, making it suitable for non-sighted users,”</q> highlighting Markdown’s compatibility with screen readers and keyboard-only navigation. Unfortunately, Microsoft’s broader ecosystem isn’t Markdown-friendly. Word and Teams, for instance, don’t offer clean Markdown workflows, which can present real limitations when working with screen readers or preparing structured content for future reuse.
 
 [↑ Back to top](#introduction)
+</details>
 
 ## Reflective Area 2 – Learning, Teaching and Assessment
 
