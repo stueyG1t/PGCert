@@ -46,8 +46,9 @@ This more technical and independent approach aligns with my belief that educator
 
 In the early science fiction novel *The Machine Stops*, E. M. Forster warned of a society that placed blind trust in a system no one truly understood: “You talk as if a god had made the Machine… I believe that you pray to it when you are unhappy. Men made it, do not forget that” (Forster, 1928). We must be careful not to confuse convenience with resilience. By engaging directly with web code, I am better positioned to problem-solve, advocate for inclusive design, and promote technical curiosity—essential traits for a digitally fluent educator.
 
+## Reflective Area 1 – Operational Issues
 <details open>
-  <summary><h2>Reflective Area 1 – Operational Issues</h2></summary>
+  <summary>Click to expand/collapse this section</summary>
 
 <img
 class="align-right"
